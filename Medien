@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Medienseite</title>
+</head>
+<body>
+
+    
+    <h1>Medien</h1>
+
+   
+    <p>
+        Hier siehst du ein freies Bild einer Person:
+        <br><br>
+        <img src="fabian.png" 
+             alt="Person" 
+             title="Freies Bild" 
+             width="400">
+        <br><br>
+        Bildnachweis: Fabian Weinzinger, „Fabian“, 
+        Quelle: oefb.com 
+        
+    </p>
+
+</body>
+</html>
